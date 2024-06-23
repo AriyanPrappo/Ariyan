@@ -1,0 +1,57 @@
+body{
+	background: darkgrey;
+}
+p{
+	text-align: justify;
+}
+
+h1{
+	text-align: center;
+}
+.head1{
+	color: green;
+	background: lightcyan;
+	font-family: calibri;
+	margin-top: 100px;
+	margin-right: 20px;
+	margin-bottom: 90px;
+	border: 5px dashed green;
+	padding: 10px;
+
+}
+.head2{
+	color:blue;
+	background:lightcyan;
+	font-family: cursive;
+	margin-top: 20px;
+	margin:30px 20px 10px 40px;
+	border: 5px dashed green;
+	padding: 10px;
+}
+
+.head3{
+	color:blue;
+	background:lightcyan;
+	font-family: cursive;
+	margin-top: 20px;
+	margin:30px 20px 10px 40px;
+	border: 5px dashed green;
+	padding: 10px;
+}
+
+span{
+	background: red;
+	color: white;
+}
+.ov{
+	text-align:center;
+}
+#hello{
+	background: green;
+	color: pink;
+	text-align: center;
+	margin: 50px;
+}
+.division{
+	border: 10px solid darkorchid;
+}
